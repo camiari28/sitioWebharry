@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* codigo de reset */
+
+* { margin: 0; padding: 0; box-sizing: border-box;}
+
+div {background-color: rgb(250, 235, 216); 
+width: 1200px;
+padding: 20px;
+margin: auto;
+}
+
+h1 {text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(126, 26, 26);
+margin: 30px;
+font-size: 38px;
+}
+
+hr {
+   border-color: #75552c;
+   margin: 20px;
+}
+
+h2 {text-align: left;
+font-family: sans-serif;
+font-weight: bold;
+font-size: 24px;
+margin: 20px;
+color: #75552c;
+}
+
+h3 {text-align: left;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 20px;
+    color: rgb(158, 118, 66);
+    }
+
+figure {text-align: center;}
+figcaption {text-align: center;
+    margin: 10px;
+    font-style: italic;
+    font-weight: 500;
+    }
+
+
+.harrysentado {text-align: center;
+    }
+    
+
+    footer {text-align: right;
+    margin: 20px;}
